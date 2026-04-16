@@ -604,8 +604,8 @@ export default function HomePage() {
                     <Image
                       src={project.image}
                       alt={project.title}
-                      width={800}
-                      height={520}
+                      width={1600}
+                      height={900}
                       className="w-full rounded-[1rem]"
                     />
                   </div>
