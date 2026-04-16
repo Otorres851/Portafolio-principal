@@ -1,6 +1,6 @@
 # OTorresDev Portfolio
 
-Portafolio en Next.js + React + TypeScript + Tailwind + Sass.
+Portafolio principal desarrollado en Next.js + React + TypeScript + Tailwind + Sass.
 
 ## Ejecutar
 
@@ -17,3 +17,6 @@ npm run dev
 - Tailwind CSS
 - Sass
 - Framer Motion
+
+## Pruebas Testing
+- Jest
