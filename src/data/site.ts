@@ -66,9 +66,9 @@ export const experience = [
     company: 'Lodgerin',
     role: 'Front-End Engineer',
     period: 'Marzo 2025 — Abril 2026',
-    copy: `Participé en el desarrollo de funcionalidades clave en aplicaciones web,
-    optimizando la experiencia de usuario y contribuyendo a un crecimiento del 80% 
-    en las ventas de alquiler en España y otros mercados.`,
+    copy: `Participé en el desarrollo de funcionalidades clave en aplicaciones web de la 
+    compañia, optimizando la experiencia de usuario y contribuyendo a un 
+    crecimiento del 80% en las ventas de alquiler en España y otros mercados.`,
     bullets: [
       'Desarrollo de interfaces y aplicaciones web enfocadas en producto.',
       'Integración con APIs REST y mejora de flujos de usuario.',

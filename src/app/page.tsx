@@ -41,8 +41,8 @@ const primaryServices = [
   },
   {
     icon: Code2,
-    title: 'Aplicaciones web con React y Next',
-    copy: 'Construyo aplicaciones con React, TypeScript y consumo de APIs REST, organizando componentes y flujos pensados para mantenerse bien con el tiempo.',
+    title: 'Aplicaciones web con React, Next, y Vue',
+    copy: 'Construyo aplicaciones con React, Vue, TypeScript y consumo de APIs REST, organizando componentes y flujos pensados para mantenerse bien con el tiempo.',
   },
   {
     icon: Sparkles,
@@ -875,18 +875,18 @@ export default function HomePage() {
                   </p>
 
                   <div className="mt-8 space-y-3 text-sm text-slate-600 dark:text-slate-300">
-                    <p className="inline-flex items-center gap-3">
-                      <Mail className="h-4 w-4 text-cyan-600 dark:text-cyan-300" />{' '}
+                    <p className="flex items-center gap-3">
+                      <Mail className="h-4 w-4 text-cyan-600 dark:text-cyan-300" />
                       {siteData.email}
                     </p>
 
-                    <p className="inline-flex items-center gap-3">
-                      <MapPin className="h-4 w-4 text-cyan-600 dark:text-cyan-300" />{' '}
+                    <p className="flex items-center gap-3">
+                      <MapPin className="h-4 w-4 text-cyan-600 dark:text-cyan-300" />
                       {siteData.location}
                     </p>
 
-                    <p className="inline-flex items-center gap-3">
-                      <FaGithub className="h-4 w-4 text-cyan-600 dark:text-cyan-300" />{' '}
+                    <p className="flex items-center gap-3">
+                      <FaGithub className="h-4 w-4 text-cyan-600 dark:text-cyan-300" />
                       {siteData.social.github}
                     </p>
                   </div>
