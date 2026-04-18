@@ -155,8 +155,8 @@ export const projects = [
     filter: 'producto',
     copy: `Interfaz tipo ecommerce con secciones amplias, producto visual y recorrido comercial más claro. 
     Actualmente se esta trabajando en ella.`,
-    tags: ['UI', 'Responsive', 'Front-End'],
-    href: 'https://otorres851.github.io/Ecommerce--food/',
+    tags: ['Vite', 'Vue 3', 'TypeScript', 'Vuetify', 'SASS', 'i18n', 'Pinia'],
+    href: 'https://ecommerce-food-freshmeal.vercel.app/',
     image: '/images/project-food.png',
   },
   {
